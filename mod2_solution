@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Module 2</title>
+
+<h1>Menu</h1>
+<style>
+
+#body {
+	margin:30
+	padding:;
+}
+#box {
+	background-color: grey;
+
+}
+
+#content {
+	background-color: grey;
+}
+
+h1{
+	margin-bottom: 30px;
+}
+
+</style>
+</head>
+
 
